@@ -1,4 +1,0 @@
-pysocks
-colorama
-undetected_chromedriver
-psutil
